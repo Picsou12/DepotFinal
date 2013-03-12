@@ -23,6 +23,6 @@ switch($do){
                 include ("controleurs/c_lesProjets.php");break;
         }
 	}
-	
+	echo "lol"
 ?>
 
